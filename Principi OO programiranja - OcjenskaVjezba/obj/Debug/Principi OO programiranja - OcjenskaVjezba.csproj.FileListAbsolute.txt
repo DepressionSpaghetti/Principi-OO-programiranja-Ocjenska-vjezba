@@ -1,0 +1,8 @@
+C:\Users\piero\source\repos\Principi OO programiranja - OcjenskaVjezba\Principi OO programiranja - OcjenskaVjezba\bin\Debug\Principi OO programiranja - OcjenskaVjezba.exe.config
+C:\Users\piero\source\repos\Principi OO programiranja - OcjenskaVjezba\Principi OO programiranja - OcjenskaVjezba\bin\Debug\Principi OO programiranja - OcjenskaVjezba.exe
+C:\Users\piero\source\repos\Principi OO programiranja - OcjenskaVjezba\Principi OO programiranja - OcjenskaVjezba\bin\Debug\Principi OO programiranja - OcjenskaVjezba.pdb
+C:\Users\piero\source\repos\Principi OO programiranja - OcjenskaVjezba\Principi OO programiranja - OcjenskaVjezba\obj\Debug\Principi OO programiranja - OcjenskaVjezba.csproj.AssemblyReference.cache
+C:\Users\piero\source\repos\Principi OO programiranja - OcjenskaVjezba\Principi OO programiranja - OcjenskaVjezba\obj\Debug\Principi OO programiranja - OcjenskaVjezba.csproj.SuggestedBindingRedirects.cache
+C:\Users\piero\source\repos\Principi OO programiranja - OcjenskaVjezba\Principi OO programiranja - OcjenskaVjezba\obj\Debug\Principi OO programiranja - OcjenskaVjezba.csproj.CoreCompileInputs.cache
+C:\Users\piero\source\repos\Principi OO programiranja - OcjenskaVjezba\Principi OO programiranja - OcjenskaVjezba\obj\Debug\Principi OO programiranja - OcjenskaVjezba.exe
+C:\Users\piero\source\repos\Principi OO programiranja - OcjenskaVjezba\Principi OO programiranja - OcjenskaVjezba\obj\Debug\Principi OO programiranja - OcjenskaVjezba.pdb
